@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [manuellevi.com](manuellevi.com), [datastrategy.ai](datastrategy.ai), [enlighenment.ai](enlighenment.ai), [singleflow.com](singleflow.com) and [forcedatastrategy.com](forcedatastrategy.com).
+I'm hidding in [manuellevi.com](manuellevi.com).
+
+🔭 While I’m working on [datastrategy.ai](datastrategy.ai), [enlighenment.ai](enlighenment.ai), [singleflow.com](singleflow.com) and [forcebook.ai](forcebook.ai).
