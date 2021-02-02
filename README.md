@@ -1,4 +1,4 @@
 
-## 🤫 I'm hiding at [manuellevi.com](manuellevi.com).
+## 🤫 I'm hiding at [https://manuellevi.com](manuellevi.com).
 
-🔭 While I’m working on [datastrategy.ai](datastrategy.ai), [enlighenment.ai](enlighenment.ai), [singleflow.com](singleflow.com) and [forcebook.ai](forcebook.ai).
+🔭 While I’m working on [https://datastrategy.ai](datastrategy.ai), [https://enlighenment.ai](enlighenment.ai), [https://singleflow.com](singleflow.com) and [https://forcebook.ai](forcebook.ai).
